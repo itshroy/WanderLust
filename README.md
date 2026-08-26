@@ -36,29 +36,43 @@ Wanderlust/
 ├── app.js
 ├── package.json
 └── .gitignore
+```
+
 ## Installation
-Clone the repository
 
+### Clone the repository
+
+```bash
 git clone https://github.com/itshroy/WanderLust.git
+```
 
-Go to the project directory
+### Go to the project directory
 
+```bash
 cd WanderLust
+```
 
-Install dependencies
+### Install dependencies
 
+```bash
 npm install
+```
 
-Start the application
+### Start the application
 
+```bash
 node app.js
+```
 
 Then open:
 
+```text
 http://localhost:8080
+```
+
 ## Database
 
-The project uses MongoDB to store listing information.
+The project uses **MongoDB** to store listing information.
 
 Make sure MongoDB is running locally before starting the application.
 
@@ -66,21 +80,23 @@ Make sure MongoDB is running locally before starting the application.
 
 While building Wanderlust, I worked with:
 
-Express routes
-MongoDB and Mongoose
-CRUD operations
-EJS templates
-MVC project structure
-Serving static files
-Working with forms and requests
-Connecting the frontend with backend data
-Future Improvements
-User authentication
-Reviews and ratings
-Search and filtering
-Image uploads
-Deployment
+- Express routes
+- MongoDB and Mongoose
+- CRUD operations
+- EJS templates
+- MVC project structure
+- Serving static files
+- Working with forms and requests
+- Connecting the frontend with backend data
+
+## Future Improvements
+
+- User authentication
+- Reviews and ratings
+- Search and filtering
+- Image uploads
+- Deployment
 
 ## Author
 
-Himanshi Roy
+**Himanshi Roy**
