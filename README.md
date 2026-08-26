@@ -36,26 +36,33 @@ Wanderlust/
 ├── app.js
 ├── package.json
 └── .gitignore
-Installation
+## Installation
 Clone the repository
+
 git clone https://github.com/itshroy/WanderLust.git
+
 Go to the project directory
+
 cd WanderLust
+
 Install dependencies
+
 npm install
+
 Start the application
+
 node app.js
 
 Then open:
 
 http://localhost:8080
-Database
+## Database
 
 The project uses MongoDB to store listing information.
 
 Make sure MongoDB is running locally before starting the application.
 
-What I Learned
+## What I Learned
 
 While building Wanderlust, I worked with:
 
@@ -73,6 +80,7 @@ Reviews and ratings
 Search and filtering
 Image uploads
 Deployment
-Author
+
+## Author
 
 Himanshi Roy
