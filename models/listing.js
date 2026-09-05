@@ -14,7 +14,7 @@ const listingSchema = new Schema({
         },
         url: {
             type: String,
-            default: "https://create.vista.com/photos/beautiful-glow/"
+            default: "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=800&q=80"
         }
     },
     price: Number,
